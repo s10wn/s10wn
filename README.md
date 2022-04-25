@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](https://github.com/s10wn/s10wn/blob/main/assets/s10wn.gif)](https://t.me/s1own)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JS)
 
 <!--
 **s10wn/s10wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
