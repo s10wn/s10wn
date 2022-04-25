@@ -7,7 +7,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=s10wn&theme=midnight-purple&hide_border=true&count_private=true" width = 400>
 </div>
 <p>
-  <img align="left" width= 530 height= 180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=s10wn&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s10wn&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
 ![Mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
