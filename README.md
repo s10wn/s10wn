@@ -1,6 +1,6 @@
 [![Header](https://github.com/s10wn/s10wn/blob/main/assets/s10wn.gif)](https://t.me/s1own)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=react)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s10wn&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s10wn&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
